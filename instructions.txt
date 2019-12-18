@@ -1,5 +1,3 @@
 Here are the instructions...
 
-Please refer the website fro more instructions.
-
-Change 2 from local.
+Please refer the website for more instructions. - Change 1 from git remote.
